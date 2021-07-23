@@ -1,2 +1,3 @@
 # hello-world
-this is my first github website
+This is my first github website
+I love :coffee: :pizza:, and: :dancer:.
